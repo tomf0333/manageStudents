@@ -1,0 +1,10 @@
+Steps for test:
+1. Extract 'TEST'.
+2. Open 'Test' directory as a pycharm project.
+3. Copy your "manageStudents.c" file into the 'TEST' directory.
+4. run test.py
+5. if no assert exceptions pop, you are golden! if there are, they will
+    specify which input file the problem occurred on and what was YOUR
+    program's output. So make sure the corresponding out file is the same
+    as that print.
+6. good luck!
